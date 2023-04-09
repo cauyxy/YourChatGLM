@@ -1,0 +1,11 @@
+cpm_kernels==1.0.11
+gradio==3.24.1
+jieba==0.42.1
+mdtex2html==1.2.0
+numpy==1.23.5
+sentencepiece==0.1.97
+transformers==4.26.1
+Whoosh==2.7.4
+torch -f https://download.pytorch.org/whl/cu117
+torchvision -f https://download.pytorch.org/whl/cu117
+torchaudio -f https://download.pytorch.org/whl/cu117
